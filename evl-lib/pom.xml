@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>eu.daproject.evl</groupId>
 	<artifactId>evl</artifactId>
-	<version>1.0.2</version>
+	<version>1.1.0</version>
 	<description>Java library that implements generalized multimethods.</description>
 	<url>https://github.com/da-project/evl</url>
 	
@@ -136,7 +136,7 @@
 			<plugin>
 				<groupId>org.sonatype.plugins</groupId>
 				<artifactId>nexus-staging-maven-plugin</artifactId>
-				<version>1.6.7</version>
+				<version>1.6.13</version>
 				<extensions>true</extensions>
 				<configuration>
 					<serverId>ossrh</serverId>
