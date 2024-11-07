@@ -29,8 +29,9 @@ $ ./deploy.sh ../
 Logos:
 - Main: drawings/logo.odg
   Used to display the upper left logo image.
-  In LibreOffice, select all, export into SVG after ticking Selection.
+  In LibreOffice, select all, export into PNG 25x25 after ticking Selection and convert to SVG with https://www.freeconvert.com/.
+  Copy the file to assets/icons.
 - Icon: drawings/logo-icon.odg
-  In LibreOffice, select all and export into PNG with size 163 x 163.
+  In LibreOffice, select all and export into PNG 163x163.
   Generate the favicons: Go to the site https://favicon.io/favicon-converter/ and convert the newly generated file logo-icon.png.
   Copy the generated files into static/favicons.

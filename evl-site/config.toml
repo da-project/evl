@@ -5,7 +5,7 @@ relativeURLs = true
 # Generate urls with the full html link: allows to open local pages from a browser without any web server.
 uglyurls = true
 
-title = ""
+title = "EVL"
 
 enableRobotsTXT = true
 
@@ -52,7 +52,7 @@ anchor = "smart"
 # Language configuration
 [languages]
 [languages.en]
-title = ""
+title = "EVL"
 description = "EVL library site"
 languageName ="English"
 # Weight used for sorting.
