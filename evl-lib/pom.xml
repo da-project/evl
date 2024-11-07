@@ -6,7 +6,7 @@
 	<artifactId>evl</artifactId>
 	<version>1.0.2</version>
 	<description>Java library that implements generalized multimethods.</description>
-	<url>https://github.com/ylegoc/evl</url>
+	<url>https://github.com/da-project/evl</url>
 	
 	<licenses>
 		<license>

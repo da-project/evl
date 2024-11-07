@@ -8,7 +8,7 @@ weight: 2
 ## Get the library
 
 The library is deployed on [Maven central](https://mvnrepository.com/artifact/eu.daproject.evl/evl/1.0.1).
-The library code is hosted on [Github](https://github.com/ylegoc/evl).  
+The library code is hosted on [GitHub](https://github.com/da-project/evl).  
 
 To use it with Maven:  
 
