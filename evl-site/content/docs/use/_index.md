@@ -7,7 +7,7 @@ weight: 2
 
 ## Get the library
 
-The library is deployed on [Maven central](https://mvnrepository.com/artifact/eu.daproject.evl/evl/1.0.1).
+The library is deployed on [Maven central](https://mvnrepository.com/artifact/eu.daproject.evl/evl/1.1.0).
 The library code is hosted on [GitHub](https://github.com/da-project/evl).  
 
 To use it with Maven:  
@@ -17,11 +17,11 @@ To use it with Maven:
 <dependency>
     <groupId>eu.daproject.evl</groupId>
     <artifactId>evl</artifactId>
-    <version>1.0.1</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
-Other build tools are available on [Maven central](https://mvnrepository.com/artifact/eu.daproject.evl/evl/1.0.1).  
+Other build tools are available on [Maven central](https://mvnrepository.com/artifact/eu.daproject.evl/evl/1.1.0).  
 The code is compiled using Java release 11.
 
 ## Use the library as module

@@ -5,6 +5,7 @@
 	<groupId>eu.daproject.evl</groupId>
 	<artifactId>evl</artifactId>
 	<version>1.1.0</version>
+	<name>EVL</name>
 	<description>Java library that implements generalized multimethods.</description>
 	<url>https://github.com/da-project/evl</url>
 	
